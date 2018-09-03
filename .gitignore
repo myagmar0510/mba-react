@@ -1,8 +1,2 @@
 *.pyc
-*.log
-*.sql
-*.sqlite
-*.DS_Store
-*.DS_Store?
-!debug.log
 *~
